@@ -1,0 +1,8 @@
+{
+    "name" : "ALG Show Current  Sheets and Objects",
+    "description" : "Show current objects on a sheet.",
+    "icon" : "extension",
+    "type" : "visualization",
+    "version": "0.1.0",
+    "author": "Rajesh Pillai"
+}
